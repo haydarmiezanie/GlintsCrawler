@@ -8,7 +8,7 @@ Glints Crawling is Crawler that aims data from Glints to xlsx, this scraper work
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/haydarmiezanie/GlintsCrawler
 ```
 
 Install dependencies
